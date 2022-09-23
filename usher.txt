@@ -1,0 +1,11 @@
+Include: God_lowing_method_Cell_3.txt
+# Channel: 
+Copy: L=3.0*L+R R=3.0*L+3.0*R
+VSTPlugin: Library GGain.dll Gain 1
+VSTPlugin: Library GStereo.dll Freq1 0.380211 Freq2 0 Width1 0.1 Width2 0.1 Width3 0.495
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBEZWZhdWx0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD4KVz8ghas+//8fP65HYT8="
+VSTPlugin: Library basiQ.dll ChunkData "UEtTQlEAAgBDcnlzdGFsAABI/v7+AAD+/v4A/gAASP7+/gD+AAAAAJqZWT8fhSs/9iicPgvXAz8="
+Filter: ON PK Fc 193.79 Hz Gain 20.3 dB Q 7.7777
+Filter: ON HSC 8.9725 dB Fc 328.29 Hz Gain 15.5 dB
+VSTPlugin: Library QuickHaas.dll ChunkData "VkMyIUUAAAA8UGx1Z2luU2V0dGluZ3MgaGRlbGF5Zj0iLTkuOTk5OTgzMDEyNjc2MjM5MDEzN2UtMDUiIHN0ZXJlb1R5cGU9IjMiLz4A"
+VSTPlugin: Library Wider.dll ChunkData "jckYPg=="
